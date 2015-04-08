@@ -16,3 +16,4 @@ feature 4
   4.3 subfeature
 feature 5
   5.1 subfeature
+  5.2 subfeature
