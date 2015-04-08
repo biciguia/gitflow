@@ -12,3 +12,4 @@ feature 3
   3.3 subfeature
 feature 4
   4.1 subfeature
+  4.2 subfeature
