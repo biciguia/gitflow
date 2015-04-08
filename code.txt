@@ -2,3 +2,5 @@ feature 1
   1.1 subfeature
   1.2 subfeature
   1.3 subfeature
+feature 2
+  2.1 subfeature
