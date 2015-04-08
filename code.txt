@@ -1,2 +1,3 @@
 feature 1
   1.1 subfeature
+  1.2 subfeature
