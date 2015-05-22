@@ -46,8 +46,8 @@ git flow feature finish feature2
 # RELEASE 0.1
 
 git flow release start v0.1
-git flow release publish v0.1
 git flow release finish v0.1
+git push origin v0.1
 ## git l
 
 # FEATURE 3
@@ -92,8 +92,8 @@ git flow feature finish feature4
 # RELEASE 0.2
 
 git flow release start v0.2
-git flow release publish v0.2
 git flow release finish v0.2
+git push origin v0.2
 ## git l
 
 # FEATURE 5
